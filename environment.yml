@@ -4,3 +4,4 @@ channels:
 dependencies:
 #  - matchms
   - numpy
+  - nb_conda
