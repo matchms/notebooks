@@ -1,0 +1,8 @@
+name: matchms-notebooks
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - nb_conda
+  # - pip 
+  #   - "--editable=git+https://github.com/matchms/matchms.git"
