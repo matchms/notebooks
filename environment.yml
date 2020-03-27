@@ -1,0 +1,6 @@
+name: matchms-notebooks
+channels:
+  - conda-forge
+dependencies:
+#  - matchms
+  - numpy
