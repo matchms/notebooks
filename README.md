@@ -1,8 +1,8 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matchms/notebooks/master?filepath=matchms_01_MGF_from_gnps_library_search.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matchms/notebooks/master?filepath=tutorial.ipynb)
 
-# Jupyter notebooks with [matchms](https://github.com/matchms/matchms) examples.
+Jupyter notebooks with [matchms](https://github.com/matchms/matchms) tutorial.
 
-# Prerequisites
+Prerequisites
 
 For running on locally on Ubuntu:
 
