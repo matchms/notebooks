@@ -4,7 +4,7 @@ Jupyter notebooks with [matchms](https://github.com/matchms/matchms) tutorial.
 
 Prerequisites
 
-For running on locally on Ubuntu:
+For running locally on Ubuntu:
 
 ```shell
 sudo apt install jupyter-core
