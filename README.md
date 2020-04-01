@@ -16,12 +16,12 @@ Install Miniconda or Anaconda from https://docs.conda.io/projects/conda/en/lates
 Create a conda environment:
 
 ```shell
-conda env create --name matchms --file environment.yml
+conda env create
 ```
 Activate the conda environment:
 
 ```shell
-conda activate matchms
+conda activate matchms-notebooks
 ```
 
 While ``matchms`` is being developed, we cannot yet install it from
