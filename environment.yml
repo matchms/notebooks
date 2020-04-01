@@ -3,8 +3,4 @@ channels:
   - conda-forge
 dependencies: 
   - nb_conda
-  - pip==19.0.1
-  - 
-    pip: 
-      - git+https://github.com/matchms/matchms.git@63-spectrum#egg=matchms
 name: matchms-notebooks
