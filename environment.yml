@@ -6,5 +6,5 @@ dependencies:
   - pip==19.0.1
   - 
     pip: 
-      - "--editable git+https://github.com/matchms/matchms.git@63-spectrum#egg=matchms"
+      - git+https://github.com/matchms/matchms.git@63-spectrum#egg=matchms
 name: matchms-notebooks
