@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies: 
   - nb_conda
-  - pip
+  - pip==19.0.1
   - 
     pip: 
       - "--editable git+https://github.com/matchms/matchms.git@63-spectrum#egg=matchms"
