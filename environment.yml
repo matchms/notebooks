@@ -1,6 +1,10 @@
-name: matchms-notebooks
-channels:
+--- 
+channels: 
   - conda-forge
-dependencies:
+dependencies: 
   - nb_conda
-
+  - pip
+  - 
+    pip: 
+      - "git+https://github.com/matchms/matchms.git@63-spectrum"
+name: matchms-notebooks
