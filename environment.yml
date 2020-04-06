@@ -1,8 +1,6 @@
-name: matchms-notebooks
-channels:
+--- 
+channels: 
   - conda-forge
-  - bioconda
-dependencies:
+dependencies: 
   - nb_conda
-  - pyteomics
-  - spectrum_utils
+name: matchms-notebooks
